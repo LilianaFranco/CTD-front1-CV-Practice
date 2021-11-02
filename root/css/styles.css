@@ -1,0 +1,72 @@
+/***** BODY *****/
+
+body{
+    background-image: url("/root/img/background.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+
+/***** HEADER *****/
+
+#profilePicture{
+    border-radius: 5px;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+/***** DATOS PERSONALES *****/
+
+h3{
+    background-color: rgba(255, 255, 255, 0.5);
+    color: white;
+    font-size: 20px;
+    padding: 20px 10px;
+}
+
+
+ul {
+    background-color: white;
+    font-size: 18px;
+    padding: 20px;
+}
+
+ul li span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+table{
+    background-color: white;
+    font-size: 18px;
+    display: block;
+    padding: 10px;
+}
+
+table tr td {
+    vertical-align: top;
+}
+
+.date{
+    font-weight: 700;
+}
+
+/***** FOOTER *****/
+
+.socialMedia{
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 50px;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+}
+
+footer span{
+    font-weight: 700;
+}
