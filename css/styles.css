@@ -1,7 +1,7 @@
 /***** BODY *****/
 
 body{
-    background-image: url("img/background.jpg");
+    background-image: url("../img/background.jpg");
     font-family: 'Roboto', sans-serif;
     color: white;
 }
@@ -9,7 +9,7 @@ body{
 /***** HEADER *****/
 
 header{
-    background-image: url("img/background2.jpg");
+    background-image: url("../img/background4.jpg");
     background-repeat: repeat;
 }
 

@@ -1,15 +1,14 @@
 /***** BODY *****/
 
 body{
-    background-image: url("img/background.jpg");
+    background-image: url("../img/background.jpg");
     font-family: 'Roboto', sans-serif;
-    color: white;
 }
 
 /***** HEADER *****/
 
 header{
-    background-image: url("img/background2.jpg");
+    background-image: url("../img/background4.jpg");
     background-repeat: repeat;
 }
 
@@ -48,55 +47,26 @@ li a:visited {
     margin-left: 100px;
     margin-top: 20px;
     width: 200px;
-
 }
 
 h1{
     background-color: white;
-    color: black;
     font-size: 35px;
     text-align: center;
 }
 
-/***** DATOS PERSONALES *****/
+/***** Content *****/
 
-h2{
-    background-color: white;
-    color: black;
-    font-size: 16px;
+p{
+    background-color:rgba(255, 255, 255, 0.2);
+    color: white;
     padding: 10px;
-    margin: 0px;
-}
-
-
-.personalInfo ul{
-    background-color: rgba(255, 255, 255, 0.2);
-    font-size: 15px;
-    padding: 20px;
-    margin: 0px;
-    list-style-type: none;
-}
-
-.personalInfo ul li span{
-    font-weight: 700;
-}
-
-table{
-    background-color: rgba(255, 255, 255, 0.2);
-    font-size: 15px;
-    display: block;
-    padding: 10px;
-}
-
-table tr td{
-    vertical-align: top;
-}
-
-.date{
-    font-weight: 700;
+    font-size: 14;
+    font-weight: lighter;
 }
 
 /***** FOOTER *****/
+
 
 .socialMedia{
     background-color: white;

@@ -1,14 +1,14 @@
 /***** BODY *****/
 
 body{
-    background-image: url(/root/img/background.jpg);
+    background-image: url("");
     font-family: 'Roboto', sans-serif;
 }
 
 /***** HEADER *****/
 
 header{
-    background-image: url('/root/img/background2.jpg');
+    background-image: url("../");
     background-repeat: repeat;
 }
 
