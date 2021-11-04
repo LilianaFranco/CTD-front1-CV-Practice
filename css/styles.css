@@ -1,4 +1,4 @@
-/***** BODY *****/
+/********** BODY **********/
 
 body{
     background-image: url("../img/background.jpg");
@@ -6,41 +6,41 @@ body{
     color: white;
 }
 
-/***** HEADER *****/
+/********** HEADER **********/
 
 header{
     background-image: url("../img/background4.jpg");
     background-repeat: repeat;
 }
 
-nav ul {
+nav ul{
     background-color: none;
     float: right;
+    font-size: 17px;
     list-style-type: none;
     margin-top: 100px;
     margin-bottom: 20px;
     margin-right: 100px;
 }
 
-nav li {
+nav li{
     color: white;
     float: left;  
     padding-right: 30px;
     margin: 5px;
-
 }
 
-li a:link {
+li a:link{
     text-decoration: none;
     color: white;
 }
 
-li a:hover {
+li a:hover{
     background-color:rgba(255, 255, 255, 0.2);;
     padding: 5px;
 }
 
-li a:visited {
+li a:visited{
     color: white;
 }
 
@@ -48,22 +48,21 @@ li a:visited {
     margin-left: 100px;
     margin-top: 20px;
     width: 200px;
-
 }
 
 h1{
     background-color: white;
     color: black;
-    font-size: 35px;
+    font-size: 40px;
     text-align: center;
 }
 
-/***** DATOS PERSONALES *****/
+/*************** Datos personales ***************/
 
 h2{
     background-color: white;
     color: black;
-    font-size: 16px;
+    font-size: 22px;
     padding: 10px;
     margin: 0px;
 }
@@ -71,7 +70,7 @@ h2{
 
 .personalInfo ul{
     background-color: rgba(255, 255, 255, 0.2);
-    font-size: 15px;
+    font-size: 18px;
     padding: 20px;
     margin: 0px;
     list-style-type: none;
@@ -81,9 +80,11 @@ h2{
     font-weight: 700;
 }
 
+/*************** Education & Work Experience: tabla ***************/
+
 table{
     background-color: rgba(255, 255, 255, 0.2);
-    font-size: 15px;
+    font-size: 18px;
     display: block;
     padding: 10px;
 }
@@ -96,12 +97,12 @@ table tr td{
     font-weight: 700;
 }
 
-/***** FOOTER *****/
+/*************** FOOTER **************/
 
 .socialMedia{
     background-color: white;
     color: black;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 500;
     padding: 10px;
     margin: 0px;
@@ -113,12 +114,12 @@ i{
     padding: 10px;
 }
 
-footer a:hover {
+footer a:hover{
     background-color:white;
     padding: 5px;
 }
 
-footer a:visited {
+footer a:visited{
     color: black;
 }
 
