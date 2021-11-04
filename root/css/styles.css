@@ -1,7 +1,7 @@
 /***** BODY *****/
 
 body{
-    background-image: url(/root/img/background2.webp);
+    background-image: url(/root/img/background.jpg);
     font-family: 'Roboto', sans-serif;
     color: white;
 }
@@ -9,7 +9,8 @@ body{
 /***** HEADER *****/
 
 header{
-    background-image: url('/root/img/background.jpg');
+    background-image: url('/root/img/background2.jpg');
+    background-repeat: repeat;
 }
 
 nav ul {
@@ -35,7 +36,7 @@ li a:link {
 }
 
 li a:hover {
-    background-color:rgba(white, white, white, 0.5);;
+    background-color:rgba(255, 255, 255, 0.2);;
     padding: 5px;
 }
 

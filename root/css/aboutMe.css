@@ -1,14 +1,15 @@
 /***** BODY *****/
 
 body{
-    background-image: url(/root/img/background2.webp);
+    background-image: url(/root/img/background.jpg);
     font-family: 'Roboto', sans-serif;
 }
 
 /***** HEADER *****/
 
 header{
-    background-image: url('/root/img/background.jpg');
+    background-image: url('/root/img/background2.jpg');
+    background-repeat: repeat;
 }
 
 nav ul {
