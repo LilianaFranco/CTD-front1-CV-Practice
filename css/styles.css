@@ -16,7 +16,7 @@ header{
 nav ul{
     background-color: none;
     float: right;
-    font-size: 17px;
+    font-size: 28px;
     list-style-type: none;
     margin-top: 100px;
     margin-bottom: 20px;
@@ -62,7 +62,7 @@ h1{
 h2{
     background-color: white;
     color: black;
-    font-size: 22px;
+    font-size: 24px;
     padding: 10px;
     margin: 0px;
 }
@@ -70,21 +70,21 @@ h2{
 
 .personalInfo ul{
     background-color: rgba(255, 255, 255, 0.2);
-    font-size: 18px;
+    font-size: 20px;
     padding: 20px;
     margin: 0px;
     list-style-type: none;
 }
 
 .personalInfo ul li span{
-    font-weight: 700;
+    font-weight: bold;
 }
 
 /*************** Education & Work Experience: tabla ***************/
 
 table{
     background-color: rgba(255, 255, 255, 0.2);
-    font-size: 18px;
+    font-size: 20px;
     display: block;
     padding: 10px;
 }
@@ -102,7 +102,7 @@ table tr td{
 .socialMedia{
     background-color: white;
     color: black;
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 500;
     padding: 10px;
     margin: 0px;

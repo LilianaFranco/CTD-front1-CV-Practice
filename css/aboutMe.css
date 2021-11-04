@@ -15,7 +15,7 @@ header{
 nav ul{
     background-color: none;
     float: right;
-    font-size: 17px;
+    font-size: 28px;
     list-style-type: none;
     margin-top: 100px;
     margin-bottom: 20px;
@@ -61,7 +61,7 @@ p{
     background-color:rgba(255, 255, 255, 0.2);
     color: white;
     padding: 10px;
-    font-size: 18;
+    font-size: 20;
     font-weight: lighter;
 }
 
@@ -70,7 +70,7 @@ p{
 .socialMedia{
     background-color: white;
     color: black;
-    font-size: 22px;
+    font-size: 28px;
     font-weight: 500;
     padding: 10px;
     margin: 0px;
